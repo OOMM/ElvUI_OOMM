@@ -16,13 +16,13 @@ OPTIONAL: ElvUI_OOMM is designed to be used in conjunction with WeakAuras2. OOMM
 
 Once in game use the following commands.
 
-/oomm install
+*/oomm install* Installs ElvUI_OOMM
 
-/oomm addons
+*/oomm addons* Creates profiles for Skada, MSBT, xCT, DBM, !ClassColors.
 
-/oomm chat
+*/oomm chat* Optional. Configures chat tabs and channels
 
-/oomm finish
+*/oomm finish* Completes installation and reloads UI.
 
 Typing /oomm will list these same commands.
 
