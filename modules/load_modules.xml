@@ -1,0 +1,10 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="auras\auras.lua"/>
+	<Include file="datatexts\time.lua"/>
+	<Include file="bags\bags.lua"/>
+	<Include file="misc\afk.lua"/>
+	<Include file="unitframes\elements\castbar.lua"/>
+	<Include file="unitframes\elements\health.lua"/>
+	<Include file="unitframes\elements\power.lua"/>
+	<Include file="unitframes\tags.lua"/>
+</Ui>

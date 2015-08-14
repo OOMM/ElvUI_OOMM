@@ -1,0 +1,16 @@
+## Interface: 60200
+## Title: |cff1784d1ElvUI|r OOMM
+## Version: 0.01
+## Author: OOMM
+## Notes: OOMM edit
+## URL: http://tukui.org/ 
+## RequiredDeps: ElvUI
+core\toolkit.lua
+core\install.lua
+core\math.lua
+core\fonts.lua
+core\modification.lua
+
+layout\layout.lua
+media\load_media.xml
+modules\load_modules.xml
